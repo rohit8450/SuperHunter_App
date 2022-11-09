@@ -1,4 +1,4 @@
-﻿# SuperHero Hunter- Mohit Goyal- Coding Ninjas <br>
+﻿# SuperHero Hunter- Rohit Thakur- Coding Ninjas <br>
 ## Links: <br>
 Online Working Project - https://superhero.mohitgoyal.me/<br>
 Video Explanation Link  - https://youtu.be/hmVysWDTqz0 <br>
