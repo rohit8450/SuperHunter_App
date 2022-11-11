@@ -1,7 +1,7 @@
 ﻿# SuperHero Hunter- Rohit Thakur- Coding Ninjas <br>
 ## Links: <br>
 Online Working Project - https://super-hunter-app.vercel.app/ <br>
-Video Explanation Link  -  <br>
+Video Explanation Link  - https://youtu.be/achYe8q9YDY <br>
 GitHub Repo Link - https://github.com/rohit8450/superhero-hunter-using-marvel-api <br>
 
 
@@ -12,10 +12,6 @@ GitHub Repo Link - https://github.com/rohit8450/superhero-hunter-using-marvel-ap
   <img src="images/favourite.png" alt="Stopwatch Screenshot" srcset=""> <br>
 ## Preview - About Hero <br>
   <img src="images/about.png?raw=true" alt="Stopwatch Screenshot" srcset=""> <br>
-
-## Video Preview <br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hmVysWDTqz0/0.jpg)](https://www.youtube.com/watch?v=hmVysWDTqz0)
-
 
 #### Thank you!
 
