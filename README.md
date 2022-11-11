@@ -1,7 +1,7 @@
 ﻿# SuperHero Hunter- Rohit Thakur- Coding Ninjas <br>
 ## Links: <br>
-Online Working Project - https://superhero.mohitgoyal.me/<br>
-Video Explanation Link  - https://youtu.be/hmVysWDTqz0 <br>
+Online Working Project - <br>
+Video Explanation Link  -  <br>
 GitHub Repo Link - https://github.com/rohit8450/superhero-hunter-using-marvel-api <br>
 
 
