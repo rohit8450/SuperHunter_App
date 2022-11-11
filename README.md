@@ -2,7 +2,7 @@
 ## Links: <br>
 Online Working Project - https://super-hunter-app.vercel.app/ <br>
 Video Explanation Link  - https://youtu.be/achYe8q9YDY <br>
-GitHub Repo Link - https://github.com/rohit8450/superhero-hunter-using-marvel-api <br>
+GitHub Repo Link - https://github.com/rohit8450/SuperHunter_App <br>
 
 
 ## Screenshots <br>
